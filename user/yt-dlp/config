@@ -1,0 +1,3 @@
+-o ~/Videos/tmp/%(title)s.%(ext)s
+
+-f bestvideo[height<=?720]+bestaudio/best
